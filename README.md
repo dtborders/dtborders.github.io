@@ -1,5 +1,5 @@
 
-## Wine Rating Models ([Github Page](https://github.com/ds4ph-bme/Wine_Rating_Model))
+## Wine Rating Models ([Github Page](https://github.com/dtborders/Wine_Ratings))
 
 ![](example_images/wine_cover.jpg)
 
