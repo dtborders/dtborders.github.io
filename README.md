@@ -1,7 +1,7 @@
-## ML Methods ([Github Page](https://github.com/dtborders/Stock_Market))
+## RL Stock Picking ([Github Page]([https://github.com/dtborders/Stock_Market](https://github.com/dtborders/ml-methods/tree/main)))
 ![](example_images/stocks.png)
 
-Examples of ml methods implementations. These implementations include computer vision, natural language processing, time series analysis, etc. See notebooks in notebooks tab for examples of the implementations. 
+Examples of ml methods implementations. These implementations include computer vision, time series analysis with RL, etc. See notebooks for examples of the implementations. The most interesting is  [RL w/ Cont Controll for Markets]([https://github.com/dtborders/Stock_Market](https://github.com/dtborders/ml-methods/blob/main/deep_continuous_q_learn.ipynb))
 
 
 ## Stock Market Analysis ([Github Page](https://github.com/dtborders/Stock_Market))
