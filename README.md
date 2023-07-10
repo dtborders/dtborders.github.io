@@ -25,4 +25,4 @@ The dataset contains readings from bottles of red wine and their corresponding r
 
 ## Contact Me
 
-I can be contacted any time at dborder1@jhu.edu or dtborders@gmail.com. 
+I can be contacted any time at dtborders@gmail.com. 
